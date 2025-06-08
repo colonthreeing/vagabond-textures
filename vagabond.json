@@ -1,14 +1,14 @@
 {
-	"id": "vagabond",
-	"name": "Vagabond",
+	"id": "vagabondtextures",
+	"name": "Vagabond Textures",
 	"author": ["colonthreeing", "Tacashumi"],
-	"description": "Adds content surrounding the streamer @vagabondbalatro on Twitch.",
-	"prefix": "vaga",
+	"description": "Adds textures inspired by the Vagabond joker from Balatro.",
+	"prefix": "vagatexture",
 	"main_file": "main.lua",
 	"priority": 0,
 	"badge_text_colour": "E0BA73",
-	"display_name": "Vagabond",
-	"version": "1.1.0",
+	"display_name": "Vagabond Textures",
+	"version": "1.0.0",
 	"dependencies": [
 		"Steamodded (>=1.*)",
 		"Lovely (>=0.6)"
